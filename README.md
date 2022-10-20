@@ -93,3 +93,7 @@ if game_level < 5:
 print(global_enemy)  # Works well.
 print(local_enemy)   # No.
 ```
+
+
+## OOP
+- Use arguments (keyword and default value) to achieve multiple constructors.
